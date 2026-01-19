@@ -1,0 +1,20 @@
+# AWS SDK packages
+aioboto3>=12.0.0
+boto3>=1.28.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Web scraping and automation
+playwright>=1.40.0
+beautifulsoup4>=4.12.0
+fake-useragent>=1.4.0
+
+# API and HTTP client
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+httpx>=0.25.0
+pydantic>=2.0.0
+
+# Note: After installing requirements, run 'playwright install chromium' to install browser binaries
+
